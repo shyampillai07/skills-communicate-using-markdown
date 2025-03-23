@@ -9,6 +9,9 @@ Markdown is a lightweight language for formatting text on GitHub. You can use it
 ## Headers in Markdown  
 You can create different header sizes using `#` symbols:  
 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ```md
 # This is an H1 header  
 ## This is an H2 header  
