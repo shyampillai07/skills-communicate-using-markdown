@@ -12,6 +12,12 @@ You can create different header sizes using `#` symbols:
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+
 ```md
 # This is an H1 header  
 ## This is an H2 header  
